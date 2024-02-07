@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+body{
+ width: 80%;
+ height: 100vh;
+ margin: 50px auto;
+ background-color: blueviolet;
+}
+.tags{
+    display: flex;
+}
+.typo{
+    margin-left: 20rem;
+    border-left: 1px solid white;
+
+}
+.diff{
+    display: flex;
+}
+.ht4{
+    width: 400px;
+}
+.ht5{
+    margin-left: 127px;
+    border-left: 1px solid white;
+}
