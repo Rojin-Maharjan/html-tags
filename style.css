@@ -3,6 +3,9 @@
     padding: 0;
     color: white;
 }
+body::-webkit-scrollbar{
+    display: none;
+}
 body{
  width: 80%;
  height: 100vh;
